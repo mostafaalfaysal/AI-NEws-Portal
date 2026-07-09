@@ -1,0 +1,6 @@
+{
+  "name": "AI Bangla News Portal",
+  "description": "Automated AI news aggregator, summarizer, image reimagining, photocard generator, and personalization engine for Bangla publishers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
